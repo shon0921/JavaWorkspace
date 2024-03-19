@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 // 함수에 스캔 응용
 // 놀이기구 탑승을 위한 키 검사
+//
 public class Ch1 {
     public static String needcm(String i , int cm)
     {
