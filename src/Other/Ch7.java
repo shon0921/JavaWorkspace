@@ -1,8 +1,8 @@
-package Ch4;
+package Other;
 
 import java.util.Scanner;
 // 정삼각형 길이 구하기
-public class tt
+public class Ch7
 {
     public static void main(String[] args)
     {
