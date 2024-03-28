@@ -13,5 +13,6 @@ public class Ch8 {
         {
             System.out.println(y.indexOf(a)+" ");
         }
+        //
     }
 }
