@@ -19,7 +19,7 @@ public class Ch10 {
             {
                 System.out.print(k.charAt(i));
             }
-
+//
         }
     }
 }
